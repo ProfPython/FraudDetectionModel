@@ -7,6 +7,7 @@
 # Python bytecode files
 *.pyc
 __pycache__/
+*.pyo
 
 # Environment variables file
 .env
@@ -14,3 +15,12 @@ __pycache__/
 # IDE and editor files
 .vscode/
 .idea/
+
+# Ignore log files
+*.log
+
+# Ignore GitHub Actions and other CI/CD directories
+.github/
+
+# Ignore .DS_Store (macOS system files)
+.DS_Store
