@@ -34,7 +34,6 @@ The model is trained on the Kaggle dataset for credit card transactions and uses
 
    ```
    git clone https://github.com/ProfPython/FraudDetectionModel.git
-   
    ```
 2. **Install Dependencies**
 
@@ -42,7 +41,6 @@ The model is trained on the Kaggle dataset for credit card transactions and uses
 
     ```
     pip install -r requirements.txt
-
     ```
 
 3. **Download the DataSet**
@@ -55,7 +53,6 @@ The model is trained on the Kaggle dataset for credit card transactions and uses
 
     ```
     python fraud_detection.py
-
     ```
 
 ## 🧑‍💻 **Code Explanation**
