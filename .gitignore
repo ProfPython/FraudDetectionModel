@@ -1,6 +1,9 @@
 # SQLite Database file
 *.db
 
+#Dataset
+*.csv
+
 # Python bytecode files
 *.pyc
 __pycache__/

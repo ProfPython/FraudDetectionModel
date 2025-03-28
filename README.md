@@ -47,7 +47,7 @@ The model is trained on the Kaggle dataset for credit card transactions and uses
 
 3. **Download the DataSet**
 
-    Download the dataset (creditcard.csv) from above or on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it in the same directory as the script.
+    Download the dataset (creditcard.csv) from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place it in the same directory as the script.
 
 4. **Run the Script**
 
